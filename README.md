@@ -1,5 +1,5 @@
-#ANAHTAR KULLANIMI
-##Anahtar kullanarak mikrodenetleyici karta bilgi girişi sağlayan uygulama.
+# ANAHTAR KULLANIMI
+## Anahtar kullanarak mikrodenetleyici karta bilgi girişi sağlayan uygulama.
 **Gerekli Devre Elemanları**</br>
 • 1 adet mikrodenetleyici kart</br>
 • 1 adet breadboard</br>
